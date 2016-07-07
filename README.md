@@ -11,11 +11,11 @@
    - Video not exceeding 5 minutes showing autonomous flight and operational ground station
    - 10 or more static images showing ground station, aircraft and team members during flight operations from a number of flights
 4. Radio transmission details:
-   - Transmission frequency
+   - ~~Transmission frequency~~
    - Transmitter power
    - Transmitter antenna gain
    - Calculated EIRP
-   - Details of spectrum licences used by team
+   - ~~Details of spectrum licences used by team~~
 5. Aircraft details:
    - Maximum airspeed (full throttle)
    - Cruise airspeed (most fuel efficient)
